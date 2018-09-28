@@ -11,8 +11,13 @@ Welcome to the Ubuntu Mini LTS Homepage. This project is based on Ubuntu Mini Re
 | amd64        | Yes       | No       | SparrOSDeveloperTeam |
 | arm64        | No        | No       | _none_                 |
 | armel        | No        | No       | _none_                 |
+| armmp        | No        | No       | _none_                 |
 | armhf        | No        | No       | _none_                 |
 | i686         | Yes       | No       | SparrOSDeveloperTeam |
 | powerpc      | No        | No       | _none_                 |
 | ppc64el      | No        | No       | _none_                 |
 | s390x        | No        | No       | _none_                 |
+
+## News
+
+* Created page
