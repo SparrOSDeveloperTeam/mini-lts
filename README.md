@@ -1,2 +1,1 @@
-# mini-lts
-Ubuntu Mini Remix - LTS Releases only.
+# Ubuntu Mini LTS Homepage
