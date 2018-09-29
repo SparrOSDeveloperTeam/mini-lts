@@ -17,4 +17,4 @@ deb http://archive.ubuntu.com/ubuntu xenial main restricted universe multiverse
 ```
 This line will install packages from all components at archive.ubuntu.com. Replace archive.ubuntu.com with the name of the page and xenial with your distribution release. In some instances, you may have to add a suite to the distribution such as `xenial-security` or `xenial-backports` depending on the suite.
 
-For more information about PPAs, please visit [this page](https://github.com/SparrOSDeveloperTeam/mini-lts/wiki/ubuntu-ppa).
+For more information about PPAs, please visit [this page](https://github.com/SparrOSDeveloperTeam/mini-lts/wiki/UbuntuPPA).
