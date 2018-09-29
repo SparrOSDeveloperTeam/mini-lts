@@ -6,6 +6,8 @@
 
 <img src="iso-4.png" width="16px" height="16px" /> [ubuntu-18.04-mini-i686.iso](#) - Ubuntu Mini i386 Release
 
+
+
 # Open Archs
 
 These are architectures that have no supporters currently. If you would like to maintain one of these untouched versions, please contact me @ sparrospublic25@gmail.com.
