@@ -6,17 +6,17 @@ Welcome to the Ubuntu Mini LTS Homepage. This project is based on Ubuntu Mini Re
 
 ## Supported Architectures
 
-| Architecture | Supported | Released | Publisher            |
-| :---:        | :---:     | :---:    | :---:                |
-| amd64        | Yes       | No       | SparrOSDeveloperTeam |
-| arm64        | No        | No       | _none_                 |
-| armel        | No        | No       | _none_                 |
-| armmp        | No        | No       | _none_                 |
-| armhf        | No        | No       | _none_                 |
-| i686         | Yes       | No       | SparrOSDeveloperTeam |
-| powerpc      | No        | No       | _none_                 |
-| ppc64el      | No        | No       | _none_                 |
-| s390x        | No        | No       | _none_                 |
+| Architecture | Supported          | Released | Publisher            |
+| :---:        | :---:              | :---:    | :---:                |
+| amd64        | :heavy_check_mark: | No       | SparrOSDeveloperTeam |
+| arm64        | :x:                | No       | _none_                 |
+| armel        | No                 | No       | _none_                 |
+| armmp        | No                 | No       | _none_                 |
+| armhf        | No                 | No       | _none_                 |
+| i686         | Yes                | No       | SparrOSDeveloperTeam |
+| powerpc      | No                 | No       | _none_                 |
+| ppc64el      | No                 | No       | _none_                 |
+| s390x        | No                 | No       | _none_                 |
 
 ## News
 
