@@ -1,0 +1,1 @@
+<center>| <a href="https://sparrosdeveloperteam.github.io/mini-lts">Home</a> | <a href="https://sparrosdeveloperteam.github.io/mini-lts/downloads">Downloads</a> | <a href="https://sparrosdeveloperteam.github.io/mini-lts/archives">Archives</a> | PPA Support |</center>
