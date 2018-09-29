@@ -3,6 +3,7 @@
 # Downloads
 
 <img src="iso-4.png" width="16px" height="16px" /> [ubuntu-18.04-mini-amd64.iso](#) - Ubuntu Mini amd64 Release
+
 <img src="iso-4.png" width="16px" height="16px" /> [ubuntu-18.04-mini-i686.iso](#) - Ubuntu Mini i386 Release
 
 # Open Archs
